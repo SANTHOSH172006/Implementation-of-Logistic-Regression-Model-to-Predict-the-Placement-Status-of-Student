@@ -16,9 +16,9 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ## Program:
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 
-Developed by: SANTHOSH D
+Developed by: GOWTHAM N
 
-RegisterNumber: 212223220099
+RegisterNumber: 212223100008
 
 ```python
 import pandas as pd
@@ -66,28 +66,36 @@ lr.predict([[1, 80, 1, 90, 1, 1, 90, 1, 0, 85, 1, 85]])
 ## Output:
 
 ### Placement Data
-![alt text](Image-1.png)
+![image](https://github.com/user-attachments/assets/0e1f1875-7f5e-4df5-9d45-237610c6905c)
+
 
 ### Checking the null() function
-![alt text](Image-2.png)
+![image](https://github.com/user-attachments/assets/4f9a6289-84a9-4fd2-995f-fc44ee4cda7b)
+
 
 ### Print Data:
-![alt text](Image-3.png)
+![image](https://github.com/user-attachments/assets/a62bad64-9985-41db-b87d-d27c8033ef60)
+
 
 ### Y_prediction array
-![alt text](Image-4.png)
+![image](https://github.com/user-attachments/assets/8bc1b1ce-389e-495c-886c-377d1bcb8c2f)
+
 
 ### Accuracy value
-![alt text](Image-5.png)
+![image](https://github.com/user-attachments/assets/44a1369b-30e9-4f2e-b97b-67876f7546e4)
+
 
 ### Confusion array
-![alt text](Image-6.png)
+![image](https://github.com/user-attachments/assets/326ff7fb-9954-437e-b668-9b33cd570f00)
+
 
 ### Classification Report
-![alt text](Image-7.png)
+![image](https://github.com/user-attachments/assets/51303492-e868-4b8b-b578-146037b6adb1)
+
 
 ### Prediction of LR
-![alt text](Image-8.png)
+![image](https://github.com/user-attachments/assets/bc0cfe7a-1580-4fa2-9627-a623137e0c38)
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
